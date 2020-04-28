@@ -1,1 +1,2 @@
 Đây là file 1.
+Tạo conflict dưới local.
