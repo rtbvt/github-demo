@@ -1,7 +1,7 @@
 # github-demo
 
-Hướng dẫn sử dụng Github
-
+# Hướng dẫn sử dụng Github
+```
 git add
 git commit
 git status
@@ -11,3 +11,4 @@ git log
 git branch
 git checkout
 git merge
+```
